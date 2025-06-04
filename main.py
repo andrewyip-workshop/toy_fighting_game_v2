@@ -952,4 +952,5 @@ while run:
 
 pygame.quit() 
 
-
+#Copyright © 2025 by futuristickids (Instagram), Futuristic Kids(Facebook), ay.parentingworkshop@yahoo.com, andrewyip-workshop, Andrew Yip
+#All rights reserved
